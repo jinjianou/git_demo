@@ -8,5 +8,10 @@ public class test {
         System.out.println("wwwww");
         System.out.println("wwwww");
         System.out.println("wwwww");
+
+        System.out.println("ww");
+        System.out.println("ww");
+        System.out.println("ww");
+        System.out.println("ww");
     }
 }
